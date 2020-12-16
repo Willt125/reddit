@@ -1,6 +1,9 @@
-## This repository is archived.
+## The main repository is archived.
 
-This repository is archived and will not receive any updates or accept issues or pull requests.
+The main repository is archived and will not receive any updates or accept issues or pull requests.
+
+**THIS** repository is free dibs, but don't expect your commits to stick, nor even the repository itself.
+
 
 To report bugs in reddit.com please make a post in [/r/bugs](http://www.reddit.com/r/bugs).
 
